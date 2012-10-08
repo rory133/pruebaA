@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World empresaA!</h1>
+        <h1>Hello World empresaA!mastercilla sin imagen</h1>
     </body>
 </html>
